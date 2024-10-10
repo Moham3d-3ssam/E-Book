@@ -206,6 +206,7 @@ body.dark{
   pointer-events: none;
   border-radius: 50%;
   transition: 0.3s;
+  z-index: 99;
 }
 .go-up:hover{
   transform: translateY(-4px);
