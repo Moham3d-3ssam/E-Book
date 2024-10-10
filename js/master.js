@@ -70,7 +70,6 @@ window.addEventListener("scroll", goUpShow);
         headerLinks.forEach((link) => {
           (link.querySelector("a").dataset.section === currentSection) ? link.querySelector("a").classList.add("active") : link.querySelector("a").classList.remove("active");
         })
-        console.log(currentSection)
       }
     })
   })
