@@ -1,2 +1,2 @@
 # E-Book
-JS_Template_Numbe_Three
+JS_Template_Number_Three
